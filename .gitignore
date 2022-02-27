@@ -15,3 +15,6 @@ node_modules
 # generated
 src/generated
 report.html
+
+# Local Netlify folder
+.netlify
