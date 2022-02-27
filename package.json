@@ -4,7 +4,6 @@
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
   "license": "UNLICENSED",
-  "homepage": "https://hershur.github.io/card-game",
   "scripts": {
     "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
     "predeploy": "npm run build",
