@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/card-game/static/css/main.ca712724.css",
+    "main.js": "/card-game/static/js/main.af7e88fe.js",
+    "static/media/winner.svg": "/card-game/static/media/winner.367527ef269a947e18ff6f05c5dd1b8e.svg",
+    "static/media/Clover.svg": "/card-game/static/media/Clover.0d1c3cf4c7451f01fea2a766c9de0871.svg",
+    "static/media/Spade.svg": "/card-game/static/media/Spade.d183b6b8d3e9c42c38f19e6c67c0179d.svg",
+    "static/media/Diamond.svg": "/card-game/static/media/Diamond.3affda761b1cbd73f2abea950021cb4b.svg",
+    "static/media/Heart.svg": "/card-game/static/media/Heart.238d5edf02651f1a9ac51a87b757aae5.svg",
+    "index.html": "/card-game/index.html",
+    "main.ca712724.css.map": "/card-game/static/css/main.ca712724.css.map",
+    "main.af7e88fe.js.map": "/card-game/static/js/main.af7e88fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca712724.css",
+    "static/js/main.af7e88fe.js"
+  ]
+}
